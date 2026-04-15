@@ -104,3 +104,6 @@ jupyter notebook
 ```
 
 노트북 실행 후 `ds_salaries.csv`와 ipynb 파일이 같은 폴더에 있도록 두면 기존 실습 흐름을 그대로 재현할 수 있습니다. [프로젝트 노트북](https://www.genspark.ai/api/files/s/7Kbxsdlg)
+
+## 질문 방법
+디스코드 질문 탭 많은 이용 부탁드립니다.
