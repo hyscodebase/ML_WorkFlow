@@ -113,7 +113,7 @@
 ## 13. 주의할 점 및 한계
 현재 데이터는 표본 수가 아주 큰 편은 아니며, 국가·직무·경력별 분포가 불균형할 수 있습니다. 또한 `salary_in_usd`는 환산값이므로 원본 통화와 현지 물가 수준, 세금, 복지 수준까지 충분히 반영하지는 못합니다. 따라서 결과 해석 시 “절대적 급여 기준”보다 “비교 가능한 기준선”으로 활용하는 관점이 중요합니다. 
 
-## 14. 실행 예시 (주피터 노트북을 사용하는 기준.코랩 사용 시 위 Guide_Baseline Code.ipynb 다운받아 파일 업로드 하셔도 됩니다. vscode 사용 시 git clone 진행)
+## 14. 실행 예시 (주피터 노트북을 사용하는 기준이며 코랩 사용 시 위 Guide_Baseline Code.ipynb 다운받아 파일 업로드 하셔도 됩니다. vscode 사용 시 git clone 진행)
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn torch
 jupyter notebook
